@@ -1,0 +1,1 @@
+Pluralsight's "Terraform Deep Dive" course exercises
